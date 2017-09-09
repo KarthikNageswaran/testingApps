@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="sample test">
+	<test name="testing1">
+		<classes>
+			<class name="com.testingApps.hybrid.test"/>
+		</classes>
+	</test>
+</suite>
