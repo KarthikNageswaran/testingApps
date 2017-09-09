@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sample test" duration-ms="16924" started-at="2017-09-09T13:36:14Z" finished-at="2017-09-09T13:36:31Z">
+    <groups>
+    </groups>
+    <test name="testing1" duration-ms="16924" started-at="2017-09-09T13:36:14Z" finished-at="2017-09-09T13:36:31Z">
+      <class name="com.testingApps.hybrid.test">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:com.testingApps.hybrid.test@6bdf28bb]" name="open_browser" is-config="true" duration-ms="9996" started-at="2017-09-09T19:06:14Z" finished-at="2017-09-09T19:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:com.testingApps.hybrid.test@6bdf28bb]" name="sample" duration-ms="6858" started-at="2017-09-09T19:06:24Z" finished-at="2017-09-09T19:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- com.testingApps.hybrid.test -->
+    </test> <!-- testing1 -->
+  </suite> <!-- sample test -->
+</testng-results>
