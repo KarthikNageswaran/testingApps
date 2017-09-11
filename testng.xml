@@ -3,7 +3,7 @@
 <suite name="sample test">
 	<test name="testing1">
 		<classes>
-			<class name="com.testingApps.hybrid.test"/>
+			<class name="com.testingApps.hybrid.test1"/>
 		</classes>
 	</test>
 </suite>
